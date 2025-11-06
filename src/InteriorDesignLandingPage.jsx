@@ -156,7 +156,7 @@ const InteriorDesignLandingPage = () => {
             {/* Logo */}
             <div className="flex items-center -mt-6">
               <img 
-                src="/l.png" 
+                src="/lane.png" 
                 alt="Sofia Lane Interiors" 
                 className="h-20 w-auto"
               />
